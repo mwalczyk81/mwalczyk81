@@ -74,6 +74,8 @@ I’m Matt, a senior full-stack engineer, creative coder, and self proclaimed QA
 
 ![](https://img.shields.io/badge/Tools-Pivotal-informational?style=flat&logo=Pivotal-Tracker&logoColor=white&color=4AB197)
 
+![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=AWS&logoColor=white&color=4AB197)
+
 ![](https://img.shields.io/badge/Tools-NGINX-informational?style=flat&logo=nginx&logoColor=white&color=4AB197)
 
 ![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=4AB197)
