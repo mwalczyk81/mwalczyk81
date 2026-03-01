@@ -14,7 +14,7 @@ Hey there 👋
 
  
 
-I’m Matt, a senior full-stack engineer, creative coder, and self proclaimed QA who specializes in back-end development.
+I'm Matt, an Engineering Manager @ Fiserv | Fintech & banking API platforms | C#/.NET, Azure, Python | Personal projects on the side
 
  
 
