@@ -14,7 +14,7 @@ Hey there 👋
 
  
 
-I'm Matt, an Engineering Manager @ Fiserv | Fintech & banking API platforms | C#/.NET, Azure, Python | Personal projects on the side
+I'm Matt, a Director of Engineering @ Fiserv | Fintech & banking API platforms | C#/.NET, Azure, Python | Personal projects on the side
 
  
 
